@@ -1,0 +1,45 @@
+body{
+font-family:'Poppins',sans-serif;
+}
+
+.hero{
+padding:120px 0;
+background:linear-gradient(120deg,#4c6ef5,#15aabf);
+color:white;
+}
+
+.section{
+padding:80px 0;
+}
+
+.skill{
+background:#4c6ef5;
+margin:5px;
+padding:10px;
+}
+
+.project-card{
+border:none;
+border-radius:12px;
+box-shadow:0 8px 20px rgba(0,0,0,0.1);
+transition:transform 0.3s;
+}
+
+.project-card:hover{
+transform:translateY(-10px);
+}
+
+.footer{
+background:#111;
+color:white;
+padding:20px;
+}
+
+.btn-primary{
+background:#4c6ef5;
+border:none;
+}
+
+.btn-primary:hover{
+background:#364fc7;
+}
